@@ -2,6 +2,7 @@
 @extends('layout.template')
 @section('konten')
 
+{{-- svgdfu dfdfq   hydfqu  dftudf --}}
 @if ($errors->any())
 <div class="pt-3">
     <div class="alret alret-danger">
