@@ -3,6 +3,7 @@
 @section('konten')
 
 {{-- svgdfu dfdfq   hydfqu  dftudf --}}
+{{-- jdbqwudfyuqwfdyuwdqwy --}}
 @if ($errors->any())
 <div class="pt-3">
     <div class="alret alret-danger">
